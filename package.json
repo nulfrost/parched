@@ -9,10 +9,20 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@tamagui/babel-plugin": "^1.93.2",
+    "@tamagui/colors": "^1.93.2",
+    "@tamagui/config": "^1.93.2",
+    "@tamagui/lucide-icons": "^1.93.2",
+    "@tamagui/toast": "^1.93.2",
+    "burnt": "^0.12.2",
     "expo": "~50.0.14",
+    "expo-build-properties": "~0.11.1",
+    "expo-font": "^11.10.3",
     "expo-status-bar": "~1.11.1",
     "react": "18.2.0",
-    "react-native": "0.73.6"
+    "react-native": "0.73.6",
+    "react-native-svg": "^15.1.0",
+    "tamagui": "^1.93.2"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
